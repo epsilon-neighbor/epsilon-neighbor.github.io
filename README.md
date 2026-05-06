@@ -1,3 +1,3 @@
 # epsilon-neighbor.github.io
 
-Data visualization work in R and Python
+Machine Learning and Data visualization work in R and Python
