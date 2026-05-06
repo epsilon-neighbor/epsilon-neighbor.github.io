@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "INTRO"
-permalink:
+title: Contact
 ---
 
 Brian
